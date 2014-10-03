@@ -17,10 +17,6 @@
 
 #import "BCBaseSegue.h"
 #import "BCExpandSegue.h"
-#import "BCDissolveSegue.h"
-#import "BCNavigationSegue.h"
-#import "BCFallSegue.h"
-#import "BCBounceSegue.h"
-#import "BC3dSegue.h"
+
 
 #endif
